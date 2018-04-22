@@ -1,0 +1,25 @@
+_availableRifleMagazines =
+[
+"30Rnd_762x39_Mag_F",
+"30Rnd_762x39_Mag_Green_F",
+"30Rnd_762x39_Mag_Tracer_F",
+"30Rnd_762x39_Mag_Tracer_Green_F",
+"30Rnd_545x39_Mag_F",
+"30Rnd_545x39_Mag_Tracer_F",
+"30Rnd_545x39_Mag_Green_F",
+"30Rnd_545x39_Mag_Tracer_Green_F",
+"30Rnd_65x39_caseless_green",
+"30Rnd_65x39_caseless_green_mag_Tracer",
+"30Rnd_580x42_Mag_F",
+"30Rnd_580x42_Mag_Tracer_F",
+"30Rnd_556x45_Stanag",
+"30Rnd_556x45_Stanag_green",
+"30Rnd_556x45_Stanag_red",
+"30Rnd_556x45_Stanag_Tracer_Green",
+"30Rnd_556x45_Stanag_Tracer_Red",
+"30Rnd_556x45_Stanag_Tracer_Yellow",
+"30Rnd_65x39_caseless_mag",
+"30Rnd_65x39_caseless_mag_Tracer",
+"20Rnd_556x45_UW_mag",
+"20Rnd_762x51_Mag"
+];

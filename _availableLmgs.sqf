@@ -1,0 +1,19 @@
+_availableLmgs =
+[
+"arifle_CTARS_blk_F",
+"arifle_CTARS_ghex_F",
+"arifle_CTARS_hex_F",
+"arifle_MX_SW_Black_F",
+"arifle_MX_SW_F",
+"arifle_MX_SW_khk_F",
+"arifle_SPAR_02_blk_F",
+"arifle_SPAR_02_khk_F",
+"arifle_SPAR_02_snd_F",
+"LMG_Mk200_F",
+"LMG_Zafir_F",
+"MMG_01_hex_F",
+"MMG_01_tan_F",
+"MMG_02_black_F",
+"MMG_02_camo_F",
+"MMG_02_sand_F"
+];

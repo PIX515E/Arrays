@@ -1,0 +1,25 @@
+_availableAccessories =
+[
+"B_UavTerminal",
+"Binocular",
+"C_UavTerminal",
+"FirstAidKit",
+"I_UavTerminal",
+"Integrated_NVG_F",
+"Integrated_NVG_TI_0_F",
+"Integrated_NVG_TI_1_F",
+"ItemCompass",
+"ItemGPS",
+"ItemMap",
+"ItemRadio",
+"ItemWatch",
+// "Laserdesignator",
+// "Laserdesignator_01_khk_F",
+// "Laserdesignator_02",
+// "Laserdesignator_02_ghex_F",
+// "Laserdesignator_03",
+"Medikit",
+"MineDetector",
+"Rangefinder",
+"ToolKit"
+];
